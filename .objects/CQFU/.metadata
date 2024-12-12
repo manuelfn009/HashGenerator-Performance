@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Points Tracker",
+  "Type": "App",
+  "Id": "CQFUqbvAnkWWNgSZxI_DHg",
+  "Reference": "WiPIi2r1kkKqcs1mP86e2A/CQFUqbvAnkWWNgSZxI_DHg",
+  "Created": "2024-12-11T11:07:18.5090807Z",
+  "Updated": "2024-12-11T11:07:18.5090807Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

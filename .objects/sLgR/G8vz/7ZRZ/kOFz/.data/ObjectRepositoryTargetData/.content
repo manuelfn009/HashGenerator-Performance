@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fn3iSkt46kC8dzD8yzvSmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha256.html" CVScreenId="dc9725a3-aba5-4d81-8dc4-759325df842e" CvElementArea="823, 707, 1103, 317" CvType="InputBox" DesignTimeRectangle="814, 718, 1110, 315" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='output' tag='TEXTAREA' type='' class='container' placeholder='Output here...' aaname='' /&gt;" Guid="f0edb42e-0fc0-4c53-9a91-a8888a8def42" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA256 - Online Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc9725a3-aba5-4d81-8dc4-759325df842e" CvTextArea="832, 686, 57, 21" CvTextArgument="Output" CvType="Text" DesignTimeRectangle="814, 669, 1110, 49" FuzzySelectorArgument="&lt;webctrl aaname='Output' class='block-title' parentid='content' tag='DIV' type='' check:innerText='Output' /&gt;" Guid="c20704a9-a6f0-469e-ad84-eac2f5116e86" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f4cf8b8b884abbf2f8a18ef35eb6896b.png" xmlns="">0CZP06zHAlEmanqsMhTydCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

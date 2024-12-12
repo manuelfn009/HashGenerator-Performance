@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5L91kN6YukqkbFMvqw3toQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="4d586ab6-6687-4eda-8082-e2555b0d7523" CvTextArea="887, 594, 162, 21" CvTextArgument="Enviar otra respuesta" CvType="Text" DesignTimeRectangle="888, 590, 162, 23" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Enviar otra respuesta' tag='SPAN' type='' class='' check:innerText='Enviar otra respuesta' /&gt;" Guid="fba45065-81c4-4378-ae00-607159f5a865" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="280d8bcd84beb922e18f3bd95fef926d.png" xmlns="">0uON0JOvfzk6lIpZkNFdGww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

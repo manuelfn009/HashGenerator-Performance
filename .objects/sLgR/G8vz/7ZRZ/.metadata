@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge SHA256 - Online Tools",
+  "Type": "Screen",
+  "Id": "7ZRZLgjtvUCiA2fBixPKgg",
+  "Reference": "WiPIi2r1kkKqcs1mP86e2A/7ZRZLgjtvUCiA2fBixPKgg",
+  "ParentRef": "WiPIi2r1kkKqcs1mP86e2A/G8vzVseEIUaefx18M0cKfA",
+  "Created": "2024-12-11T11:51:59.1799977Z",
+  "Updated": "2024-12-11T11:51:59.1799977Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

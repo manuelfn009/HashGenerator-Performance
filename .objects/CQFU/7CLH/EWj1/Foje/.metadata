@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Receiver",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Foje2yekv02mNnhK8Q6ABQ",
+  "Reference": "WiPIi2r1kkKqcs1mP86e2A/Foje2yekv02mNnhK8Q6ABQ",
+  "ParentRef": "WiPIi2r1kkKqcs1mP86e2A/EWj1R_bs-06I1aFy_0SgyA",
+  "Created": "2024-12-11T11:19:08.39366Z",
+  "Updated": "2024-12-11T11:19:08.39366Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

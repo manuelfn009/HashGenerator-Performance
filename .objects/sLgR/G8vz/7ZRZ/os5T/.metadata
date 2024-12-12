@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Output",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "os5TIHqV70S37qOqYl9g1w",
+  "Reference": "WiPIi2r1kkKqcs1mP86e2A/os5TIHqV70S37qOqYl9g1w",
+  "ParentRef": "WiPIi2r1kkKqcs1mP86e2A/7ZRZLgjtvUCiA2fBixPKgg",
+  "Created": "2024-12-11T12:13:27.9230779Z",
+  "Updated": "2024-12-11T12:13:27.9230779Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

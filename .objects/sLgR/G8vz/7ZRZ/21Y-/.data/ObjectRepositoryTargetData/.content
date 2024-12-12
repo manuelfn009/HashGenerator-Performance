@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JibJb7PVbUij6no66TKaYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha256.html" CVScreenId="fa747420-ec22-4241-b748-0e3e77871266" DesignTimeRectangle="814, 306, 1110, 363" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' type='' class='container' placeholder='Enter here...' aaname='' /&gt;" Guid="4dda3954-39c2-43dc-a0d5-a4e75ec99550" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA256 - Online Tools' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fa747420-ec22-4241-b748-0e3e77871266" DesignTimeRectangle="814, 257, 1110, 49" FuzzySelectorArgument="&lt;webctrl class='block-title' parentid='content' tag='DIV' type='' aaname='Input' check:innerText='Input' /&gt;" Guid="f100ee49-5260-409e-a282-7063ee1edc5c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="823ee02d88e83e90090f63c045d0f79d.png" xmlns="">0d_4zW0AA4UKjZxaRkHcmEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

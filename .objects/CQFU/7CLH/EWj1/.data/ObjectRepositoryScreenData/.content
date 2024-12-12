@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="BMd7WBlvM0WVFubf57BG2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADkSURBVDhPY2CAAvNjFwTMj114b37swn8S8HuYfpgB6ArA2PTw2f+Ky9b+l5q9EIxBbJAYSA5uANQQDM0gDNLA39L5nzmnAIxBbJAY2ADm5vb3zM3t//FhllaEZhgGucT44CmwARgasGFGSxsMA2AugCs68ODhf2TgtGgpXI7dyQWnF1AMaDx4GMN2EBYMDsMeiOgGwAxBN0g6OQMjcLEa8ODDB7hByHKMZhYYAQnCGAag20w1A3h9A+BhAMJYDcCH8RlAMCEx1zXhNgAZgPyJC4uUVBI2AD2AiMHoBrxHV0AAvwcAkuYXI9ztKrsAAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='Points Tracker' /&gt;" Title="Points Tracker" Url="https://forms.office.com/Pages/ResponsePage.aspx?id=Kj012FOxF02IJ5AsUfcjV6MzTw6dlyFHsVP1myF_QdJUNEVBUlpORDJYMFozSDRYMzJMV1JHTTAxVS4u" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="bf05de3ec075fb7a53be3159d40ea157.jpg" xmlns="">0avoAwD48U06hU-sym7BvLA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

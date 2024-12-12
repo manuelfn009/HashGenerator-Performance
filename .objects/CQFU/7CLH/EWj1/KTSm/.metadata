@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Enviar otra respuesta",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KTSmVyZ-r0y6_W-SsQ-iYQ",
+  "Reference": "WiPIi2r1kkKqcs1mP86e2A/KTSmVyZ-r0y6_W-SsQ-iYQ",
+  "ParentRef": "WiPIi2r1kkKqcs1mP86e2A/EWj1R_bs-06I1aFy_0SgyA",
+  "Created": "2024-12-11T11:24:55.3832587Z",
+  "Updated": "2024-12-11T11:24:55.3832587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

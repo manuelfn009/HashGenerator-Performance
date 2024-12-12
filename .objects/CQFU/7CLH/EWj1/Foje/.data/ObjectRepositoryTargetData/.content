@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wQfBt4RSTUKp5MbAqItpnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="7ae0253c-2c32-43b0-9a46-4d8de72bce1f" DesignTimeRectangle="465, 580, 1014, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r740f037016614f2288fd26a12ca8acd4 QuestionInfo_r740f037016614f2288fd26a12ca8acd4' tag='INPUT' type='' class='-as-66' placeholder='Escriba su respuesta' aaname='' /&gt;" Guid="b7606305-7109-443b-9464-8cbaab732501" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7ae0253c-2c32-43b0-9a46-4d8de72bce1f" DesignTimeRectangle="463, 526, 78, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Receiver' tag='SPAN' type='' class='text-format-content ' check:innerText='Receiver' /&gt;" Guid="7d0cbc2a-89bc-4c85-bed3-de8cfbae85f2" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f90b39407d83d8909ab0f25f7e83c909.png" xmlns="">0j_cDqwFU80yB-w1oGiQkdA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
